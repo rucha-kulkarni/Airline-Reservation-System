@@ -1,0 +1,8 @@
+"idflight";"flightname";"source";"destination";"flightfare";"date";"arrivaltime";"departuretime"
+"FN001";"JetLine";"India";"UK";"50000";"2022-12-14";"9.00AM";"11.00PM"
+"FN002";"Tata";"India";"United States";"40000";"2022-12-10";"9.00AM";"9.00PM"
+"FN003";"Marin";"India";"UK";"80000";"2022-12-12";"8.00AM";"10.00PM"
+"FN004";"JetAirlines";"India";"Denmark";"60000";"2022-12-15";"8.00AM";"9.00PM"
+"FN005";"BritishAirways";"UK";"Denmark";"65000";"2022-12-17";"2.00PM";"9.00PM"
+"FN006";"AirIndia";"India";"Switzerland";"69000";"2022-12-23";"7.00AM";"6.00PM"
+"FN007";"Skytrax";"UK";"Sweden";"55000";"2022-12-20";"1.00PM";"10.00PM"
